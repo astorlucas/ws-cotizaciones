@@ -1,6 +1,8 @@
 package com.soap.cotizaciones.ws;
 
 import java.util.List;
+import org.springframework.stereotype.Service;
+
 
 @Service
 public class RateService {
